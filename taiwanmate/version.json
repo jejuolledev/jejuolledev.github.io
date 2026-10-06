@@ -1,7 +1,7 @@
 {
-  "min_version_ios": "1.3.0",
+  "min_version_ios": "1.3.1",
   "latest_version_ios": "1.3.1",
   "min_version_android": "1.0.0",
   "latest_version_android": "1.0.0",
-  "emergency_patch_force": false
+  "emergency_patch_force": true
 }
